@@ -1,7 +1,7 @@
 
 ```markdown
-# 🚀 Open Source CI/CD Pipeline Automation  
-### Technologies: Python (Flask) + React + Machine Learning + Docker + GitHub Actions
+🚀 Open Source CI/CD Pipeline Automation  
+Technologies: Python (Flask) + React + Machine Learning + Docker + GitHub Actions
 
 This project demonstrates a complete **CI/CD pipeline automation** system using:
 
@@ -11,11 +11,7 @@ This project demonstrates a complete **CI/CD pipeline automation** system using:
 - ✅ Docker & Docker Compose for deployment
 - ✅ GitHub Actions for CI/CD workflows
 
----
-
-## 📁 Project Structure
-
-```
+📁 Project Structure
 
 ci\_cd\_project/
 │
@@ -44,13 +40,9 @@ ci\_cd\_project/
 ├── docker-compose.yml
 └── README.md
 
-````
+🔧 Setup Instructions
 
----
-
-## 🔧 Setup Instructions
-
-### 1. 📦 Prerequisites
+1. 📦 Prerequisites
 
 Make sure you have the following installed:
 
@@ -59,52 +51,42 @@ Make sure you have the following installed:
 - [Docker & Docker Compose](https://docs.docker.com/get-docker/)
 - GitHub account
 
----
+ 🔁 Local Development
 
-## 🔁 Local Development
+🐍 Backend Setup (Python + Flask)
 
-### 🐍 Backend Setup (Python + Flask)
-
-```bash
+bash
 cd backend
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 python app.py
-````
 
-### ⚛️ Frontend Setup (React)
+⚛️ Frontend Setup (React)
 
-```bash
+bash
 cd frontend
 npm install
 npm start
-```
 
----
 
-## 🐳 Docker Deployment
+🐳 Docker Deployment
 
-### 📦 Build with Docker Compose
+ 📦 Build with Docker Compose
 
-```bash
+bash
 docker-compose up --build
-```
 
 Then access:
 
-* **Frontend:** [http://localhost:3000](http://localhost:3000)
-* **Backend API:** [http://localhost:5000](http://localhost:5000)
+Frontend: [http://localhost:3000](http://localhost:3000)
+Backend API: [http://localhost:5000](http://localhost:5000)
 
----
-
-## 🤖 Machine Learning Logic
+🤖 Machine Learning Logic
 
 A basic placeholder is added for ML predictions. You can replace `ml_model.py` with your own trained models.
 
----
-
-## 🔄 GitHub Actions CI/CD
+🔄 GitHub Actions CI/CD
 
 GitHub Actions workflow is located in `.github/workflows/ci-cd.yml`.
 
@@ -116,16 +98,12 @@ It includes:
 
 Auto-deploy with further integration into platforms like Heroku, Vercel, AWS, etc.
 
----
-
-## 📂 Folder Access & File Imports
+📂 Folder Access & File Imports
 
 * Python backend handles dynamic folder reading and uploads.
 * React handles static file rendering and component-based import logic.
 
----
-
-## 📈 Future Enhancements
+📈 Future Enhancements
 
 * 🧠 Advanced ML: Predictive rollback and anomaly detection
 * 🔧 Kubernetes support
@@ -141,26 +119,16 @@ L.P. Harisha Lakshan Warnakulasuriya a.k.a **Hariya**
 📬 [unicornprofessionalbay@gmail.com](mailto:unicornprofessionalbay@gmail.com)
 🚀 #Web\_Application\_Engineer #SaaS #CI/CD #DevOps #MachineLearning
 
----
-
-## 📄 License
+📄 License
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-## 📷 Screenshots & Diagrams
+📷 Screenshots & Diagrams
 
 Refer to the image below for an architectural overview:
 ![Architecture Diagram](docs/architecture.png)
 
----
-
 Happy Building! 💻🛠️🚀
-
-```
-
----
 
 Let me know if you’d like:
 
@@ -168,4 +136,4 @@ Let me know if you’d like:
 - Custom architecture diagrams  
 - Personalized logo or cover banner  
 - A version with Markdown badges and contribution guidelines
-```
+
