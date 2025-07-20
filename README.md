@@ -1,6 +1,3 @@
-Here is the complete `README.md` file for your **Open Source CI/CD Pipeline Automation with Python, React, and Machine Learning** project:
-
----
 
 ```markdown
 # 🚀 Open Source CI/CD Pipeline Automation  
