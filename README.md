@@ -3,7 +3,7 @@
 🚀 Open Source CI/CD Pipeline Automation  
 Technologies: Python (Flask) + React + Machine Learning + Docker + GitHub Actions
 
-This project demonstrates a complete **CI/CD pipeline automation** system using:
+This project demonstrates a complete CI/CD pipeline automation system using:
 
 - ✅ Python (Flask) for backend logic and automation
 - ✅ React for frontend user interface
@@ -110,11 +110,9 @@ Auto-deploy with further integration into platforms like Heroku, Vercel, AWS, et
 * 📊 Grafana + Prometheus monitoring
 * 🔐 OAuth & JWT Auth for CI pipelines
 
----
+👨‍💻 Author
 
-## 👨‍💻 Author
-
-L.P. Harisha Lakshan Warnakulasuriya a.k.a **Hariya**
+L.P. Harisha Lakshan Warnakulasuriya a.k.a Hariya
 📍 Malabe, Sri Lanka
 📬 [unicornprofessionalbay@gmail.com](mailto:unicornprofessionalbay@gmail.com)
 🚀 #Web\_Application\_Engineer #SaaS #CI/CD #DevOps #MachineLearning
